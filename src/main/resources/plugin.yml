@@ -1,0 +1,5 @@
+name: Stats
+version: ${project.version}
+main: me.tolfer.stats.Stats
+authors: [ Tolfer ]
+description: Save data on database
