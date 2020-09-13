@@ -3,3 +3,7 @@ version: ${project.version}
 main: me.tolfer.stats.Stats
 authors: [ Tolfer ]
 description: Save data on database
+
+commands:
+  stats:
+    description: Watch your stats
